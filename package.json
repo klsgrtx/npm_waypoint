@@ -16,8 +16,6 @@
     "url": "https://github.com/klsgrtx/npm_waypoint/issues"
   },
   "homepage": "https://github.com/klsgrtx/npm_waypoint#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
